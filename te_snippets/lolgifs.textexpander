@@ -18,22 +18,16 @@
 			<integer>0</integer>
 			<key>creationDate</key>
 			<date>2014-10-06T17:28:19Z</date>
-			<key>flags</key>
-			<integer>0</integer>
 			<key>label</key>
 			<string>Mic Drop</string>
-			<key>lastUsed</key>
-			<date>2014-12-18T14:23:39Z</date>
 			<key>modificationDate</key>
 			<date>2014-10-06T17:29:12Z</date>
 			<key>plainText</key>
 			<string>http://25.media.tumblr.com/tumblr_m3rtyerfHZ1qir45xo1_500.gif</string>
 			<key>snippetType</key>
 			<integer>0</integer>
-			<key>useCount</key>
-			<integer>5</integer>
 			<key>uuidString</key>
-			<string>9FED36E1-2B09-4076-B0D0-CA97EB631577</string>
+			<string>A2177C2F-37BC-4C1B-BCD3-E446CBEAA051</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
@@ -42,22 +36,16 @@
 			<integer>0</integer>
 			<key>creationDate</key>
 			<date>2014-10-06T17:29:40Z</date>
-			<key>flags</key>
-			<integer>0</integer>
 			<key>label</key>
 			<string>No Thank You</string>
-			<key>lastUsed</key>
-			<date>2014-12-19T20:23:49Z</date>
 			<key>modificationDate</key>
 			<date>2014-10-06T17:29:56Z</date>
 			<key>plainText</key>
 			<string>http://s3-ak.buzzfeed.com/static/2014-06/15/8/enhanced/webdr03/anigif_enhanced-buzz-22153-1402834155-5.gif</string>
 			<key>snippetType</key>
 			<integer>0</integer>
-			<key>useCount</key>
-			<integer>0</integer>
 			<key>uuidString</key>
-			<string>283320B2-5802-4DB3-AE15-CEB5D9B3CEF7</string>
+			<string>E548C94F-1982-4E50-ABB9-3D06A985686A</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
@@ -66,22 +54,16 @@
 			<integer>0</integer>
 			<key>creationDate</key>
 			<date>2014-10-06T17:30:08Z</date>
-			<key>flags</key>
-			<integer>0</integer>
 			<key>label</key>
 			<string>Infinite Facepalm</string>
-			<key>lastUsed</key>
-			<date>2014-12-19T05:43:11Z</date>
 			<key>modificationDate</key>
 			<date>2014-10-06T17:30:18Z</date>
 			<key>plainText</key>
 			<string>http://i.imgur.com/a4uo7WF.gif</string>
 			<key>snippetType</key>
 			<integer>0</integer>
-			<key>useCount</key>
-			<integer>0</integer>
 			<key>uuidString</key>
-			<string>6F6E88D2-7A54-4343-AFCF-B91E3CBD3F66</string>
+			<string>80E968BD-F4E5-483E-9FCE-2D869203CFCD</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
@@ -90,22 +72,16 @@
 			<integer>0</integer>
 			<key>creationDate</key>
 			<date>2014-10-06T17:31:11Z</date>
-			<key>flags</key>
-			<integer>0</integer>
 			<key>label</key>
 			<string>I Love Caffeine</string>
-			<key>lastUsed</key>
-			<date>2014-12-19T16:52:56Z</date>
 			<key>modificationDate</key>
 			<date>2014-10-06T17:31:26Z</date>
 			<key>plainText</key>
 			<string>http://img1.wikia.nocookie.net/__cb20130812020944/epicrapbattlesofhistory/images/d/d0/19367_safe_twilight-sparkle_pinkie-pie_animated_text_library_party_funny_friendship-is-magic_drinking_hopping.gif</string>
 			<key>snippetType</key>
 			<integer>0</integer>
-			<key>useCount</key>
-			<integer>0</integer>
 			<key>uuidString</key>
-			<string>400033EC-915F-4C6D-A336-148FBAE3F03C</string>
+			<string>A176499A-18C6-4925-9E19-347AC880B2CC</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
@@ -114,22 +90,16 @@
 			<integer>0</integer>
 			<key>creationDate</key>
 			<date>2014-10-06T17:31:38Z</date>
-			<key>flags</key>
-			<integer>0</integer>
 			<key>label</key>
 			<string>Pony Metal</string>
-			<key>lastUsed</key>
-			<date>2014-12-19T16:54:23Z</date>
 			<key>modificationDate</key>
 			<date>2014-10-06T17:31:49Z</date>
 			<key>plainText</key>
 			<string>http://images5.fanpop.com/image/photos/31000000/Metallica-MLP-pics-my-little-pony-friendship-is-magic-31045435-819-862.jpg</string>
 			<key>snippetType</key>
 			<integer>0</integer>
-			<key>useCount</key>
-			<integer>0</integer>
 			<key>uuidString</key>
-			<string>1762BB71-4782-4C77-A1E0-3A7FE611DDF4</string>
+			<string>C2AF89CA-3873-41D4-A844-F1E8071520B0</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
@@ -138,8 +108,6 @@
 			<integer>0</integer>
 			<key>creationDate</key>
 			<date>2014-10-06T19:07:12Z</date>
-			<key>flags</key>
-			<integer>0</integer>
 			<key>label</key>
 			<string>Tyrion No</string>
 			<key>modificationDate</key>
@@ -148,10 +116,8 @@
 			<string>http://replygif.net/i/1504.gif</string>
 			<key>snippetType</key>
 			<integer>0</integer>
-			<key>useCount</key>
-			<integer>0</integer>
 			<key>uuidString</key>
-			<string>78DD9B9D-E9E9-46D8-8BC1-9063C9C538F3</string>
+			<string>0FB95FE9-3E6B-4515-B87D-2A22BC87918D</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
@@ -160,22 +126,16 @@
 			<integer>0</integer>
 			<key>creationDate</key>
 			<date>2014-10-09T20:48:49Z</date>
-			<key>flags</key>
-			<integer>0</integer>
 			<key>label</key>
 			<string>Confused</string>
-			<key>lastUsed</key>
-			<date>2014-12-19T16:55:43Z</date>
 			<key>modificationDate</key>
 			<date>2014-11-06T15:27:31Z</date>
 			<key>plainText</key>
 			<string>http://replygif.net/i/331.gif</string>
 			<key>snippetType</key>
 			<integer>0</integer>
-			<key>useCount</key>
-			<integer>1</integer>
 			<key>uuidString</key>
-			<string>3DFB7234-4F9D-47C7-A397-8CC2B5DA252E</string>
+			<string>8B82E413-41C7-4D04-BAA2-0F694FBD386D</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
@@ -184,22 +144,16 @@
 			<integer>0</integer>
 			<key>creationDate</key>
 			<date>2014-11-06T15:54:45Z</date>
-			<key>flags</key>
-			<integer>0</integer>
 			<key>label</key>
 			<string>Thank You So Much</string>
-			<key>lastUsed</key>
-			<date>2014-12-19T18:32:50Z</date>
 			<key>modificationDate</key>
 			<date>2014-11-06T15:54:55Z</date>
 			<key>plainText</key>
 			<string>http://replygif.net/i/1274.gif</string>
 			<key>snippetType</key>
 			<integer>0</integer>
-			<key>useCount</key>
-			<integer>0</integer>
 			<key>uuidString</key>
-			<string>8AA0A238-F487-4638-9B2C-C883FA8AABF4</string>
+			<string>03B50519-16D1-41D9-98B9-FDC35F225390</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
@@ -208,22 +162,16 @@
 			<integer>0</integer>
 			<key>creationDate</key>
 			<date>2014-11-06T22:19:14Z</date>
-			<key>flags</key>
-			<integer>0</integer>
 			<key>label</key>
 			<string>Colbert Jack Daniels</string>
-			<key>lastUsed</key>
-			<date>2014-12-19T20:22:12Z</date>
 			<key>modificationDate</key>
 			<date>2014-11-06T22:19:26Z</date>
 			<key>plainText</key>
 			<string>http://media.giphy.com/media/kR5dloerNGPKM/giphy.gif</string>
 			<key>snippetType</key>
 			<integer>0</integer>
-			<key>useCount</key>
-			<integer>0</integer>
 			<key>uuidString</key>
-			<string>464F12D3-7F33-4A90-81A2-F814EF3BDE1D</string>
+			<string>7A1C43FF-C29C-48A5-B781-E27E15BC081C</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
@@ -232,22 +180,16 @@
 			<integer>0</integer>
 			<key>creationDate</key>
 			<date>2014-11-17T19:28:39Z</date>
-			<key>flags</key>
-			<integer>0</integer>
 			<key>label</key>
 			<string>South Side</string>
-			<key>lastUsed</key>
-			<date>2014-12-17T20:36:49Z</date>
 			<key>modificationDate</key>
 			<date>2014-11-17T19:29:00Z</date>
 			<key>plainText</key>
 			<string>http://38.media.tumblr.com/3d820c6b00a135be5b5856ed6bcbfaaa/tumblr_naygm1i4pH1tq4of6o1_500.gif</string>
 			<key>snippetType</key>
 			<integer>0</integer>
-			<key>useCount</key>
-			<integer>0</integer>
 			<key>uuidString</key>
-			<string>3BC168B8-AA5C-4093-9088-C09B09E89D0B</string>
+			<string>B9554A4A-0C1F-4F2D-AD13-233ABADAC382</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
@@ -256,22 +198,16 @@
 			<integer>0</integer>
 			<key>creationDate</key>
 			<date>2014-11-17T22:10:46Z</date>
-			<key>flags</key>
-			<integer>0</integer>
 			<key>label</key>
 			<string>Oh Snap</string>
-			<key>lastUsed</key>
-			<date>2014-11-18T21:49:46Z</date>
 			<key>modificationDate</key>
 			<date>2014-11-17T22:10:58Z</date>
 			<key>plainText</key>
 			<string>http://replygif.net/i/582.gif</string>
 			<key>snippetType</key>
 			<integer>0</integer>
-			<key>useCount</key>
-			<integer>0</integer>
 			<key>uuidString</key>
-			<string>480C986D-0CE7-49D7-B518-B6A2E922E057</string>
+			<string>1AEFD27A-169C-47A5-908A-F582264BB1D3</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
@@ -280,22 +216,16 @@
 			<integer>0</integer>
 			<key>creationDate</key>
 			<date>2014-11-21T00:21:16Z</date>
-			<key>flags</key>
-			<integer>0</integer>
 			<key>label</key>
 			<string>Obvious</string>
-			<key>lastUsed</key>
-			<date>2014-12-18T23:45:52Z</date>
 			<key>modificationDate</key>
 			<date>2014-11-21T00:21:32Z</date>
 			<key>plainText</key>
 			<string>http://replygif.net/i/1528.gif</string>
 			<key>snippetType</key>
 			<integer>0</integer>
-			<key>useCount</key>
-			<integer>0</integer>
 			<key>uuidString</key>
-			<string>F6E79552-C82B-48EA-8D8E-F05F09519A9D</string>
+			<string>8A0870BE-3CCF-4510-AD28-64189E8D7CAD</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
@@ -304,8 +234,6 @@
 			<integer>0</integer>
 			<key>creationDate</key>
 			<date>2014-12-05T22:19:16Z</date>
-			<key>flags</key>
-			<integer>0</integer>
 			<key>label</key>
 			<string>Trogdor</string>
 			<key>modificationDate</key>
@@ -314,10 +242,8 @@
 			<string>http://static.fjcdn.com/pictures/Trogdor_65657a_4562128.jpg</string>
 			<key>snippetType</key>
 			<integer>0</integer>
-			<key>useCount</key>
-			<integer>0</integer>
 			<key>uuidString</key>
-			<string>482E3DE4-F348-4995-8FEB-74221562B467</string>
+			<string>423D7FD1-E24A-4AF1-841A-4DA06F6C8682</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
@@ -329,7 +255,7 @@
 			<key>extraInfo</key>
 			<dict>
 				<key>RTF</key>
-				<string>{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1344\cocoasubrtf720
 {\fonttbl\f0\fnil\fcharset0 LucidaGrande;}
 {\colortbl;\red255\green255\blue255;}
 \deftab720
@@ -338,36 +264,30 @@
 \f0\fs24 \cf0 \expnd0\expndtw0\kerning0
 (\uc0\u9583 \'b0\u9633 \'b0\u65289 \u9583 \u65077  \u9531 \u9473 \u9531 }</string>
 			</dict>
-			<key>flags</key>
-			<integer>0</integer>
 			<key>label</key>
 			<string>tableflip</string>
-			<key>lastUsed</key>
-			<date>2014-12-18T03:30:27Z</date>
 			<key>modificationDate</key>
 			<date>2014-12-05T22:19:34Z</date>
 			<key>plainText</key>
 			<string>(╯°□°）╯︵ ┻━┻</string>
 			<key>richText</key>
 			<data>
-			BAtzdHJlYW10eXBlZIHoA4QBQISEhBJOU0F0dHJpYnV0ZWRTdHJp
-			bmcAhIQITlNPYmplY3QAhZKEhIQITlNTdHJpbmcBlIQBKx4o4pWv
-			wrDilqHCsO+8ieKVr++4tSDilLvilIHilLuGhAJpSQEMkoSEhAxO
-			U0RpY3Rpb25hcnkAlIQBaQSShJaWEE5TUGFyYWdyYXBoU3R5bGWG
-			koSEhBBOU1BhcmFncmFwaFN0eWxlAJSEBENDQFMAAISEhAdOU0Fy
-			cmF5AJSZAIaBFAqEBFs0Zl2DzcyFQoPNzEy9JIPNzEw9hpKElpYN
-			TlNTdHJva2VDb2xvcoaShISEB05TQ29sb3IAlIQBYwOEAmZmAAGG
-			koSWlgZOU0ZvbnSGkoSEhAZOU0ZvbnQelJkkhAVbMzZjXQYAAAAa
-			AAAA//5MAHUAYwBpAGQAYQBHAHIAYQBuAGQAZQAAAIQBZgyfAJ8B
-			nwCfAIaShJaWBk5TS2VyboaShISECE5TTnVtYmVyAISEB05TVmFs
-			dWUAlIQBKoSEAWSnAIaGhg==
+			BAtzdHJlYW10eXBlZIHoA4QBQISEhBlOU011dGFibGVBdHRyaWJ1
+			dGVkU3RyaW5nAISEEk5TQXR0cmlidXRlZFN0cmluZwCEhAhOU09i
+			amVjdACFkoSEhA9OU011dGFibGVTdHJpbmcBhIQITlNTdHJpbmcB
+			lYQBKx4o4pWvwrDilqHCsO+8ieKVr++4tSDilLvilIHilLuGhAJp
+			SQEMkoSEhAxOU0RpY3Rpb25hcnkAlYQBaQOShJiYBk5TS2VyboaS
+			hISECE5TTnVtYmVyAISEB05TVmFsdWUAlYQBKoSEAWSfAIaShJiY
+			EE5TUGFyYWdyYXBoU3R5bGWGkoSEhBBOU1BhcmFncmFwaFN0eWxl
+			AJWEBENDQFMAAISEhAdOU0FycmF5AJWbAIaBFAqEBFs0Zl2DzcyF
+			QoPNzEy9JIPNzEw9hpKEmJgGTlNGb250hpKEhIQGTlNGb250HpWb
+			JIQFWzM2Y10GAAAAGgAAAP/+TAB1AGMAaQBkAGEARwByAGEAbgBk
+			AGUAAACEAWYMhAFjAKcBpwCnAIaGhg==
 			</data>
 			<key>snippetType</key>
 			<integer>1</integer>
-			<key>useCount</key>
-			<integer>0</integer>
 			<key>uuidString</key>
-			<string>8B983AE2-9ED6-4CF8-86ED-9FF5C4530E85</string>
+			<string>3A0F8182-2BF6-4248-91CB-0916CD4434DE</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
@@ -376,22 +296,16 @@
 			<integer>0</integer>
 			<key>creationDate</key>
 			<date>2014-12-05T22:20:13Z</date>
-			<key>flags</key>
-			<integer>0</integer>
 			<key>label</key>
 			<string>Swagger</string>
-			<key>lastUsed</key>
-			<date>2014-12-19T20:16:45Z</date>
 			<key>modificationDate</key>
 			<date>2014-12-05T22:20:21Z</date>
 			<key>plainText</key>
 			<string>http://media.tumblr.com/749abf46ee91b6a11136b388e410d3c5/tumblr_inline_mnmjkw1bFB1qz4rgp.gif</string>
 			<key>snippetType</key>
 			<integer>0</integer>
-			<key>useCount</key>
-			<integer>0</integer>
 			<key>uuidString</key>
-			<string>BD718AC5-E360-4EF5-B956-1357F8241749</string>
+			<string>0095B8FD-5199-491F-93F8-CEB920A7713E</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
@@ -400,22 +314,16 @@
 			<integer>0</integer>
 			<key>creationDate</key>
 			<date>2014-12-05T22:20:33Z</date>
-			<key>flags</key>
-			<integer>0</integer>
 			<key>label</key>
 			<string>so bored</string>
-			<key>lastUsed</key>
-			<date>2014-12-19T20:31:30Z</date>
 			<key>modificationDate</key>
 			<date>2014-12-05T22:20:51Z</date>
 			<key>plainText</key>
 			<string>http://media.tumblr.com/51bb33360c8727ad7724195f31d06e67/tumblr_inline_mn9nb3bOuS1qz4rgp.gif</string>
 			<key>snippetType</key>
 			<integer>0</integer>
-			<key>useCount</key>
-			<integer>0</integer>
 			<key>uuidString</key>
-			<string>D495004B-CCED-4296-8DF9-D24E0018F873</string>
+			<string>11BE06E1-6E28-4686-9599-CA6B91DDDF2F</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
@@ -424,22 +332,16 @@
 			<integer>0</integer>
 			<key>creationDate</key>
 			<date>2014-12-05T22:21:26Z</date>
-			<key>flags</key>
-			<integer>0</integer>
 			<key>label</key>
 			<string>Celebrate Me</string>
-			<key>lastUsed</key>
-			<date>2014-12-16T16:30:58Z</date>
 			<key>modificationDate</key>
 			<date>2014-12-05T22:21:33Z</date>
 			<key>plainText</key>
 			<string>http://media.tumblr.com/ea02837921b6dc77e45961cf02159fcc/tumblr_inline_mmt4vmOIYX1qz4rgp.gif</string>
 			<key>snippetType</key>
 			<integer>0</integer>
-			<key>useCount</key>
-			<integer>0</integer>
 			<key>uuidString</key>
-			<string>88AD9D3E-2B27-469F-B651-9EFF9D8399BC</string>
+			<string>5D5E75FD-44DC-41BE-AE24-D21CDE0D3124</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
@@ -448,22 +350,16 @@
 			<integer>0</integer>
 			<key>creationDate</key>
 			<date>2014-12-05T22:22:00Z</date>
-			<key>flags</key>
-			<integer>0</integer>
 			<key>label</key>
 			<string>Metal Baby</string>
-			<key>lastUsed</key>
-			<date>2014-12-19T05:21:29Z</date>
 			<key>modificationDate</key>
 			<date>2014-12-05T22:22:08Z</date>
 			<key>plainText</key>
 			<string>http://media.tumblr.com/c1fd9da5e7d4aed2cce8a722a0d875bb/tumblr_inline_mmsl2ormaC1qz4rgp.gif</string>
 			<key>snippetType</key>
 			<integer>0</integer>
-			<key>useCount</key>
-			<integer>0</integer>
 			<key>uuidString</key>
-			<string>A35CD3D5-C174-4998-BCFF-E162356A6537</string>
+			<string>627574A4-E73F-418F-A620-418C263EA61E</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
@@ -472,8 +368,6 @@
 			<integer>0</integer>
 			<key>creationDate</key>
 			<date>2014-12-19T16:52:09Z</date>
-			<key>flags</key>
-			<integer>0</integer>
 			<key>label</key>
 			<string>Dance</string>
 			<key>modificationDate</key>
@@ -482,10 +376,8 @@
 			<string>http://replygif.net/i/368.gif</string>
 			<key>snippetType</key>
 			<integer>0</integer>
-			<key>useCount</key>
-			<integer>0</integer>
 			<key>uuidString</key>
-			<string>B49C4BD3-11BB-4D72-AD65-7A63651520F9</string>
+			<string>B7EC1543-5304-4B47-85AA-FD0E509760A6</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
@@ -494,8 +386,6 @@
 			<integer>0</integer>
 			<key>creationDate</key>
 			<date>2014-12-19T16:52:31Z</date>
-			<key>flags</key>
-			<integer>0</integer>
 			<key>label</key>
 			<string>Hilary</string>
 			<key>modificationDate</key>
@@ -504,10 +394,8 @@
 			<string>http://i.imgur.com/BTqTHhj.gif</string>
 			<key>snippetType</key>
 			<integer>0</integer>
-			<key>useCount</key>
-			<integer>0</integer>
 			<key>uuidString</key>
-			<string>7A705365-32A7-4315-92E5-90BD7A00B13D</string>
+			<string>D56AC310-A2C4-4E46-9400-7C5ED0F7D5E3</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
@@ -516,8 +404,6 @@
 			<integer>0</integer>
 			<key>creationDate</key>
 			<date>2014-12-19T16:53:50Z</date>
-			<key>flags</key>
-			<integer>0</integer>
 			<key>label</key>
 			<string>What???</string>
 			<key>modificationDate</key>
@@ -526,10 +412,8 @@
 			<string>http://replygif.net/i/558.gif</string>
 			<key>snippetType</key>
 			<integer>0</integer>
-			<key>useCount</key>
-			<integer>0</integer>
 			<key>uuidString</key>
-			<string>E8949FD6-526B-434F-95FD-197B3A617FEE</string>
+			<string>F3F67687-3E5D-45E6-99FF-C3717757206B</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
@@ -538,8 +422,6 @@
 			<integer>0</integer>
 			<key>creationDate</key>
 			<date>2014-12-19T17:05:18Z</date>
-			<key>flags</key>
-			<integer>0</integer>
 			<key>label</key>
 			<string>Thumbs Up</string>
 			<key>modificationDate</key>
@@ -548,10 +430,8 @@
 			<string>https://i.imgur.com/CXNOCBb.gif</string>
 			<key>snippetType</key>
 			<integer>0</integer>
-			<key>useCount</key>
-			<integer>0</integer>
 			<key>uuidString</key>
-			<string>85674F71-8FD3-4AFC-943C-AEB364593BDC</string>
+			<string>C1E337FF-89C6-4F97-83A7-1406F86E22ED</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
@@ -560,8 +440,6 @@
 			<integer>0</integer>
 			<key>creationDate</key>
 			<date>2014-12-19T17:07:53Z</date>
-			<key>flags</key>
-			<integer>0</integer>
 			<key>label</key>
 			<string>Didn't Read</string>
 			<key>modificationDate</key>
@@ -570,10 +448,8 @@
 			<string>http://i.minus.com/iRPnVJibVaImI.gif</string>
 			<key>snippetType</key>
 			<integer>0</integer>
-			<key>useCount</key>
-			<integer>0</integer>
 			<key>uuidString</key>
-			<string>AC667D71-0DB7-4F5B-91EC-1CBA416ADF82</string>
+			<string>70E9848D-FB16-43DA-BB20-F2DDFD37460D</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
@@ -582,8 +458,6 @@
 			<integer>0</integer>
 			<key>creationDate</key>
 			<date>2014-12-19T17:09:26Z</date>
-			<key>flags</key>
-			<integer>0</integer>
 			<key>label</key>
 			<string>PIcard Bye</string>
 			<key>modificationDate</key>
@@ -592,10 +466,8 @@
 			<string>http://replygif.net/i/872.gif</string>
 			<key>snippetType</key>
 			<integer>0</integer>
-			<key>useCount</key>
-			<integer>0</integer>
 			<key>uuidString</key>
-			<string>A1AF6E17-87E0-4311-BFF5-068C47B8C12D</string>
+			<string>BC6B2CC9-C3E9-44DA-BFD1-02923343084E</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
@@ -604,8 +476,6 @@
 			<integer>0</integer>
 			<key>creationDate</key>
 			<date>2014-12-19T17:48:42Z</date>
-			<key>flags</key>
-			<integer>0</integer>
 			<key>label</key>
 			<string>Colbert Clap</string>
 			<key>modificationDate</key>
@@ -614,10 +484,8 @@
 			<string>http://replygif.net/i/1296.gif</string>
 			<key>snippetType</key>
 			<integer>0</integer>
-			<key>useCount</key>
-			<integer>0</integer>
 			<key>uuidString</key>
-			<string>23455BA6-5C69-4746-A01E-04A1EB9750A7</string>
+			<string>F8819AAF-6A60-4777-9F36-6F18145B0E3B</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
@@ -626,8 +494,6 @@
 			<integer>0</integer>
 			<key>creationDate</key>
 			<date>2014-12-19T17:49:17Z</date>
-			<key>flags</key>
-			<integer>0</integer>
 			<key>label</key>
 			<string>Bored Drink</string>
 			<key>modificationDate</key>
@@ -636,10 +502,8 @@
 			<string>http://replygif.net/i/1303.gif</string>
 			<key>snippetType</key>
 			<integer>0</integer>
-			<key>useCount</key>
-			<integer>0</integer>
 			<key>uuidString</key>
-			<string>E03A2577-30F2-4225-9E50-88AD0BCC7D5B</string>
+			<string>6A1DC5D1-E6F7-4650-8BEF-A35D29FA7EAA</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
@@ -648,8 +512,6 @@
 			<integer>0</integer>
 			<key>creationDate</key>
 			<date>2014-12-19T17:49:55Z</date>
-			<key>flags</key>
-			<integer>0</integer>
 			<key>label</key>
 			<string>NO!!</string>
 			<key>modificationDate</key>
@@ -658,10 +520,8 @@
 			<string>http://replygif.net/i/613.gif</string>
 			<key>snippetType</key>
 			<integer>0</integer>
-			<key>useCount</key>
-			<integer>0</integer>
 			<key>uuidString</key>
-			<string>EA9DDE4F-CC7D-4694-B10E-080D09E0F9DC</string>
+			<string>6D1568CD-5CBA-4CCF-811C-CA78A4915CC9</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
@@ -670,22 +530,16 @@
 			<integer>0</integer>
 			<key>creationDate</key>
 			<date>2014-12-19T17:50:39Z</date>
-			<key>flags</key>
-			<integer>0</integer>
 			<key>label</key>
 			<string>Angry Knope</string>
-			<key>lastUsed</key>
-			<date>2014-12-22T23:50:15Z</date>
 			<key>modificationDate</key>
 			<date>2014-12-19T17:50:49Z</date>
 			<key>plainText</key>
 			<string>http://replygif.net/i/229.gif</string>
 			<key>snippetType</key>
 			<integer>0</integer>
-			<key>useCount</key>
-			<integer>0</integer>
 			<key>uuidString</key>
-			<string>9E53F5AC-2632-43E7-942F-136F56FC099B</string>
+			<string>B3806D48-49E3-4D15-BE87-D9AEF7DA5F8B</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
@@ -694,8 +548,6 @@
 			<integer>0</integer>
 			<key>creationDate</key>
 			<date>2014-12-19T20:08:11Z</date>
-			<key>flags</key>
-			<integer>0</integer>
 			<key>label</key>
 			<string>Whooooa!</string>
 			<key>modificationDate</key>
@@ -704,10 +556,8 @@
 			<string>http://media.tumblr.com/bcbb80613f0e413ef644a31359ed8bdf/tumblr_inline_mriykfmQJZ1qz4rgp.gif</string>
 			<key>snippetType</key>
 			<integer>0</integer>
-			<key>useCount</key>
-			<integer>0</integer>
 			<key>uuidString</key>
-			<string>037BED55-ACD6-4BD2-B952-57131082ED47</string>
+			<string>9A081063-1045-4D32-87BC-2C46814F44C3</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
@@ -716,8 +566,6 @@
 			<integer>0</integer>
 			<key>creationDate</key>
 			<date>2014-12-19T20:15:09Z</date>
-			<key>flags</key>
-			<integer>0</integer>
 			<key>label</key>
 			<string>I Just Want It To Stop</string>
 			<key>modificationDate</key>
@@ -726,10 +574,8 @@
 			<string>http://s3-ec.buzzfed.com/static/2014-06/9/15/enhanced/webdr06/anigif_enhanced-19339-1402341473-13.gif</string>
 			<key>snippetType</key>
 			<integer>0</integer>
-			<key>useCount</key>
-			<integer>0</integer>
 			<key>uuidString</key>
-			<string>3E31D15C-8D42-4204-8EFC-437CF4170E34</string>
+			<string>98E423F6-5614-4780-9CFB-7CC058D75158</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
@@ -738,8 +584,6 @@
 			<integer>0</integer>
 			<key>creationDate</key>
 			<date>2014-12-19T20:16:25Z</date>
-			<key>flags</key>
-			<integer>0</integer>
 			<key>label</key>
 			<string>Hater Horse</string>
 			<key>modificationDate</key>
@@ -748,10 +592,8 @@
 			<string>http://i.imgur.com/nDUA8Hh.gif</string>
 			<key>snippetType</key>
 			<integer>0</integer>
-			<key>useCount</key>
-			<integer>0</integer>
 			<key>uuidString</key>
-			<string>89251622-968E-4F1F-8186-A2D8200FAC55</string>
+			<string>2D5E890D-B080-4114-BE92-BDD33BE5C6B1</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
@@ -760,8 +602,6 @@
 			<integer>0</integer>
 			<key>creationDate</key>
 			<date>2014-12-19T20:23:09Z</date>
-			<key>flags</key>
-			<integer>0</integer>
 			<key>label</key>
 			<string>Hello Fox</string>
 			<key>modificationDate</key>
@@ -770,10 +610,8 @@
 			<string>http://i.imgur.com/xOzMI6A.gif</string>
 			<key>snippetType</key>
 			<integer>0</integer>
-			<key>useCount</key>
-			<integer>0</integer>
 			<key>uuidString</key>
-			<string>DE1B11D0-0DF3-4E63-9FBE-6FD65C09D691</string>
+			<string>453B2470-B863-4EF9-A174-1EA692343C57</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
@@ -782,8 +620,6 @@
 			<integer>0</integer>
 			<key>creationDate</key>
 			<date>2014-12-19T20:25:11Z</date>
-			<key>flags</key>
-			<integer>0</integer>
 			<key>label</key>
 			<string>Jerk Store</string>
 			<key>modificationDate</key>
@@ -792,10 +628,8 @@
 			<string>http://media.giphy.com/media/FYDRuz1l1uAWA/giphy.gif</string>
 			<key>snippetType</key>
 			<integer>0</integer>
-			<key>useCount</key>
-			<integer>0</integer>
 			<key>uuidString</key>
-			<string>896F3BE5-921D-48CB-B55E-A3FC1E852F26</string>
+			<string>3B4EF9B9-81A8-4F9F-A4DF-0FD8B3A784CF</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
@@ -804,8 +638,6 @@
 			<integer>0</integer>
 			<key>creationDate</key>
 			<date>2014-12-19T20:27:34Z</date>
-			<key>flags</key>
-			<integer>0</integer>
 			<key>label</key>
 			<string>That's Enough</string>
 			<key>modificationDate</key>
@@ -814,10 +646,8 @@
 			<string>http://replygif.net/i/1456.gif</string>
 			<key>snippetType</key>
 			<integer>0</integer>
-			<key>useCount</key>
-			<integer>0</integer>
 			<key>uuidString</key>
-			<string>CD71D5EB-96DA-4507-84D5-7A6F29CAD810</string>
+			<string>03EE630B-6C96-4C54-B15C-EFAD5BE1FB49</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
@@ -826,8 +656,6 @@
 			<integer>0</integer>
 			<key>creationDate</key>
 			<date>2014-12-19T20:31:56Z</date>
-			<key>flags</key>
-			<integer>0</integer>
 			<key>label</key>
 			<string>Cool Jack</string>
 			<key>modificationDate</key>
@@ -836,10 +664,8 @@
 			<string>http://media.tumblr.com/76f9ab12d22a0243a2cb7665f95dedd3/tumblr_inline_mmuxlwK4Vf1qz4rgp.gif</string>
 			<key>snippetType</key>
 			<integer>0</integer>
-			<key>useCount</key>
-			<integer>0</integer>
 			<key>uuidString</key>
-			<string>0FD45FF0-40DF-41E5-8C5A-1D6834C82CC2</string>
+			<string>EA8BB071-B539-47DD-8D5F-7B2FAE4D150E</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
@@ -848,22 +674,16 @@
 			<integer>0</integer>
 			<key>creationDate</key>
 			<date>2014-12-19T20:32:35Z</date>
-			<key>flags</key>
-			<integer>0</integer>
 			<key>label</key>
 			<string>Kitten Hug</string>
-			<key>lastUsed</key>
-			<date>2014-12-19T20:34:18Z</date>
 			<key>modificationDate</key>
 			<date>2014-12-19T20:32:43Z</date>
 			<key>plainText</key>
 			<string>http://media.tumblr.com/86575f5ff94a0bed5c28784c93326b88/tumblr_inline_mmslkkCsQS1qz4rgp.gif</string>
 			<key>snippetType</key>
 			<integer>0</integer>
-			<key>useCount</key>
-			<integer>0</integer>
 			<key>uuidString</key>
-			<string>17BBDD95-BB5D-4364-AB05-0F6FFA22D439</string>
+			<string>699853A4-A99C-4E72-BD33-4C282BBC006D</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
@@ -872,8 +692,6 @@
 			<integer>0</integer>
 			<key>creationDate</key>
 			<date>2014-12-19T20:32:48Z</date>
-			<key>flags</key>
-			<integer>0</integer>
 			<key>label</key>
 			<string>Nobody matters but me</string>
 			<key>modificationDate</key>
@@ -882,10 +700,8 @@
 			<string>http://media.tumblr.com/27bed6dd614d8337bdc5d1b3827938d3/tumblr_inline_mmsll8ia3q1qz4rgp.gif</string>
 			<key>snippetType</key>
 			<integer>0</integer>
-			<key>useCount</key>
-			<integer>0</integer>
 			<key>uuidString</key>
-			<string>2FEB794B-4419-4FEF-BDC0-428133EEF888</string>
+			<string>D10E7CC1-4EA7-49F3-A407-8F3202E8A606</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
@@ -894,8 +710,6 @@
 			<integer>0</integer>
 			<key>creationDate</key>
 			<date>2014-12-19T20:33:32Z</date>
-			<key>flags</key>
-			<integer>0</integer>
 			<key>label</key>
 			<string>Moss Popcorn</string>
 			<key>modificationDate</key>
@@ -904,10 +718,8 @@
 			<string>http://replygif.net/i/1388.gif</string>
 			<key>snippetType</key>
 			<integer>0</integer>
-			<key>useCount</key>
-			<integer>0</integer>
 			<key>uuidString</key>
-			<string>764974C1-4FF2-4459-8A84-39DD1E079E1D</string>
+			<string>5F1F4AB2-FB0B-4B0B-A438-4BEA2B6409A3</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
@@ -916,8 +728,6 @@
 			<integer>0</integer>
 			<key>creationDate</key>
 			<date>2014-12-19T20:34:59Z</date>
-			<key>flags</key>
-			<integer>0</integer>
 			<key>label</key>
 			<string>Bastards</string>
 			<key>modificationDate</key>
@@ -926,10 +736,8 @@
 			<string>http://i40.tinypic.com/6854sn.gif</string>
 			<key>snippetType</key>
 			<integer>0</integer>
-			<key>useCount</key>
-			<integer>0</integer>
 			<key>uuidString</key>
-			<string>47B3563F-3E39-42AD-93B1-9998EA1610D7</string>
+			<string>186318FB-A2A5-4B50-AAD2-D4A99F5A04CB</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
@@ -938,8 +746,6 @@
 			<integer>0</integer>
 			<key>creationDate</key>
 			<date>2014-12-19T20:35:38Z</date>
-			<key>flags</key>
-			<integer>0</integer>
 			<key>label</key>
 			<string>Look More Normal</string>
 			<key>modificationDate</key>
@@ -948,10 +754,8 @@
 			<string>http://i.imgur.com/oHh0L.gif</string>
 			<key>snippetType</key>
 			<integer>0</integer>
-			<key>useCount</key>
-			<integer>0</integer>
 			<key>uuidString</key>
-			<string>5E221212-FB5A-4F61-8F07-E588EB8DC6C7</string>
+			<string>D5615D5C-61C7-43DA-9BB4-7F29570F70C2</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
@@ -960,8 +764,6 @@
 			<integer>0</integer>
 			<key>creationDate</key>
 			<date>2014-12-19T20:36:07Z</date>
-			<key>flags</key>
-			<integer>0</integer>
 			<key>label</key>
 			<string>I Came Here To Drink Milk and Kick Ass</string>
 			<key>modificationDate</key>
@@ -970,10 +772,8 @@
 			<string>http://media2.giphy.com/media/R9Sq5b15MdyA8/200_s.gif</string>
 			<key>snippetType</key>
 			<integer>0</integer>
-			<key>useCount</key>
-			<integer>0</integer>
 			<key>uuidString</key>
-			<string>3FC23970-9635-4F3A-88CA-F565EFDCE193</string>
+			<string>83F8FC79-1620-458F-873B-08CD1011FFC9</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
@@ -982,22 +782,16 @@
 			<integer>0</integer>
 			<key>creationDate</key>
 			<date>2014-12-19T20:36:37Z</date>
-			<key>flags</key>
-			<integer>0</integer>
 			<key>label</key>
 			<string>Turn it off and on again</string>
-			<key>lastUsed</key>
-			<date>2014-12-19T20:40:56Z</date>
 			<key>modificationDate</key>
 			<date>2014-12-19T20:36:47Z</date>
 			<key>plainText</key>
 			<string>http://media.giphy.com/media/F7yLXA5fJ5sLC/giphy.gif</string>
 			<key>snippetType</key>
 			<integer>0</integer>
-			<key>useCount</key>
-			<integer>0</integer>
 			<key>uuidString</key>
-			<string>61C6E97B-E2A6-4916-80CA-7BE10ADAFA9E</string>
+			<string>04B814C5-86F7-439B-BCD3-3F00F9440637</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
@@ -1006,8 +800,6 @@
 			<integer>0</integer>
 			<key>creationDate</key>
 			<date>2014-12-19T20:39:14Z</date>
-			<key>flags</key>
-			<integer>0</integer>
 			<key>label</key>
 			<string>Thrilliing Heroics</string>
 			<key>modificationDate</key>
@@ -1016,10 +808,8 @@
 			<string>http://media1.giphy.com/media/ZxtLYP26ygGLm/giphy.gif</string>
 			<key>snippetType</key>
 			<integer>0</integer>
-			<key>useCount</key>
-			<integer>0</integer>
 			<key>uuidString</key>
-			<string>07E71132-78DD-4CF1-BD44-809F15B5222E</string>
+			<string>6E027AF0-1E79-4F44-AEEF-3C849213989E</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
@@ -1028,8 +818,6 @@
 			<integer>0</integer>
 			<key>creationDate</key>
 			<date>2014-12-19T20:39:59Z</date>
-			<key>flags</key>
-			<integer>0</integer>
 			<key>label</key>
 			<string>How Drunk Was I?</string>
 			<key>modificationDate</key>
@@ -1038,10 +826,8 @@
 			<string>http://media.giphy.com/media/WrtHoDDT4Cycw/giphy.gif</string>
 			<key>snippetType</key>
 			<integer>0</integer>
-			<key>useCount</key>
-			<integer>0</integer>
 			<key>uuidString</key>
-			<string>82162D08-1767-4877-B588-532C61DF2B09</string>
+			<string>78FA1A94-D86C-4CAA-9B71-ACFB9DAF3417</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
@@ -1050,8 +836,6 @@
 			<integer>0</integer>
 			<key>creationDate</key>
 			<date>2014-12-19T20:43:55Z</date>
-			<key>flags</key>
-			<integer>0</integer>
 			<key>label</key>
 			<string>Pat on back</string>
 			<key>modificationDate</key>
@@ -1060,10 +844,8 @@
 			<string>http://media.tumblr.com/d9b803baae81d2f00dec64424008d6ad/tumblr_inline_nfiqxk1IOT1raprkq.gif</string>
 			<key>snippetType</key>
 			<integer>0</integer>
-			<key>useCount</key>
-			<integer>0</integer>
 			<key>uuidString</key>
-			<string>DD51ACA8-6423-4942-8E5A-E7E842716AF6</string>
+			<string>1DF91D5A-E967-436C-B386-952742EA061C</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
@@ -1072,8 +854,6 @@
 			<integer>0</integer>
 			<key>creationDate</key>
 			<date>2014-12-19T20:45:02Z</date>
-			<key>flags</key>
-			<integer>0</integer>
 			<key>label</key>
 			<string>Arya Laugh</string>
 			<key>modificationDate</key>
@@ -1082,10 +862,8 @@
 			<string>http://i.imgur.com/pcJYqHq.gif</string>
 			<key>snippetType</key>
 			<integer>0</integer>
-			<key>useCount</key>
-			<integer>0</integer>
 			<key>uuidString</key>
-			<string>532D4492-09B0-4D91-9121-603EC608EBA8</string>
+			<string>7BAFD6EA-CE69-40CD-AB70-0CB09500C24C</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
@@ -1094,8 +872,6 @@
 			<integer>0</integer>
 			<key>creationDate</key>
 			<date>2014-12-23T21:50:29Z</date>
-			<key>flags</key>
-			<integer>0</integer>
 			<key>label</key>
 			<string>Eat My Feelings</string>
 			<key>modificationDate</key>
@@ -1104,10 +880,8 @@
 			<string>http://s3-ec.buzzfed.com/static/2014-12/23/13/imagebuzz/webdr04/anigif_optimized-3583-1419358380-1.gif</string>
 			<key>snippetType</key>
 			<integer>0</integer>
-			<key>useCount</key>
-			<integer>0</integer>
 			<key>uuidString</key>
-			<string>A35E0B35-E131-4CCE-B087-4EECC9EA77A5</string>
+			<string>28EAA1DC-1AFC-4278-9C38-A6265E166A7B</string>
 		</dict>
 		<dict>
 			<key>abbreviation</key>
@@ -1116,8 +890,6 @@
 			<integer>0</integer>
 			<key>creationDate</key>
 			<date>2014-12-23T21:58:54Z</date>
-			<key>flags</key>
-			<integer>0</integer>
 			<key>label</key>
 			<string>Make it Rain</string>
 			<key>modificationDate</key>
@@ -1126,10 +898,638 @@
 			<string>http://i.giphy.com/h4kIihkkQOpRm.gif</string>
 			<key>snippetType</key>
 			<integer>0</integer>
-			<key>useCount</key>
+			<key>uuidString</key>
+			<string>C1D41A4B-B284-41A9-98FB-BAB8D21157D9</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>,nope</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2015-04-08T20:08:36Z</date>
+			<key>label</key>
+			<string>Nope, jack sparrow runs</string>
+			<key>modificationDate</key>
+			<date>2015-04-08T20:09:33Z</date>
+			<key>plainText</key>
+			<string>http://replygif.net/i/382.gif</string>
+			<key>snippetType</key>
 			<integer>0</integer>
 			<key>uuidString</key>
-			<string>E472D4AA-AD5B-47E0-AFC3-29989CAB4ADA</string>
+			<string>24CE0D88-3992-4619-9712-F90828697C22</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>,toss</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2015-04-08T20:13:35Z</date>
+			<key>label</key>
+			<string>Toss Papers (Sheldon)</string>
+			<key>modificationDate</key>
+			<date>2015-04-08T20:13:56Z</date>
+			<key>plainText</key>
+			<string>http://replygif.net/i/258.gif</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>71F07B5F-0D92-45F1-AC1A-C58C2764C13C</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>,timeforthat</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2015-04-08T21:17:15Z</date>
+			<key>label</key>
+			<string>Aint nobody got time</string>
+			<key>modificationDate</key>
+			<date>2015-04-08T21:17:46Z</date>
+			<key>plainText</key>
+			<string>http://replygif.net/i/422.gif</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>F5C34654-0870-46E5-8FBE-0C67C002DF4C</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>,rumgone</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2015-04-09T15:05:50Z</date>
+			<key>label</key>
+			<string>Why is the rum gone?</string>
+			<key>modificationDate</key>
+			<date>2015-04-09T15:06:06Z</date>
+			<key>plainText</key>
+			<string>http://media.tumblr.com/fa2a89bdf89c61b07bf821b971971e96/tumblr_inline_n9sam8ejsM1qar3or.gif</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>86B23A58-8567-47EA-88BB-4162E6ACE9E7</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>,tireslash</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2015-04-09T15:29:16Z</date>
+			<key>label</key>
+			<string>Tire slash fail</string>
+			<key>modificationDate</key>
+			<date>2015-04-09T15:29:33Z</date>
+			<key>plainText</key>
+			<string>http://www.gifbin.com/bin/112012/1390774042_truck_tire_air_burst_knocks_down_man.gif</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>18018C2E-BBD2-46A6-8138-20430958D7C6</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>,tldr</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2015-04-09T15:40:21Z</date>
+			<key>label</key>
+			<string>TLDR stormtrooper</string>
+			<key>modificationDate</key>
+			<date>2015-04-09T15:40:39Z</date>
+			<key>plainText</key>
+			<string>http://i.minus.com/iRPnVJibVaImI.gif</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>D1621C19-049C-4CB0-AAE9-B533C82599C1</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>,milkpants</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2015-04-09T15:45:15Z</date>
+			<key>label</key>
+			<string>Milk in the pants</string>
+			<key>modificationDate</key>
+			<date>2015-04-09T15:46:56Z</date>
+			<key>plainText</key>
+			<string>http://i.imgur.com/bToRiuA.gif</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>8B6209BA-1EF4-48C0-9075-2A4F096B25AD</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>,fixtie</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2015-04-09T15:46:27Z</date>
+			<key>label</key>
+			<string>suit, fixing tie</string>
+			<key>modificationDate</key>
+			<date>2015-04-09T15:46:44Z</date>
+			<key>plainText</key>
+			<string>http://i.imgur.com/vneRWAG.gif</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>832F62AC-D39A-4FDA-B925-4E1896BCC987</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>,bananadance</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2015-04-09T15:48:22Z</date>
+			<key>label</key>
+			<string>Dancing Banana</string>
+			<key>modificationDate</key>
+			<date>2015-04-09T15:48:54Z</date>
+			<key>plainText</key>
+			<string>http://vignette2.wikia.nocookie.net/uncyclopedia/images/7/7b/Dancing_banana.gif</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>24F025F3-76CF-49DD-8AAA-227DC3664BFD</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>,bullshitallergy</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2015-04-09T15:49:35Z</date>
+			<key>label</key>
+			<string>Allergic to bullshit</string>
+			<key>modificationDate</key>
+			<date>2015-06-04T21:58:13Z</date>
+			<key>plainText</key>
+			<string>http://media.tumblr.com/tumblr_m6qbh1e4kg1r5aekzo1_500.gif</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>4F668773-4F28-45E1-B25C-699FC68F3148</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>,nutshell</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2015-04-09T16:05:22Z</date>
+			<key>label</key>
+			<string>Austin Powers nutshell</string>
+			<key>modificationDate</key>
+			<date>2015-04-09T16:05:39Z</date>
+			<key>plainText</key>
+			<string>http://media.giphy.com/media/ct7yYG8RDsVOg/giphy.gif</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>BEF379BB-8448-4630-B3F4-308DA9FE9BB5</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>,facex4</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2015-04-10T18:05:15Z</date>
+			<key>label</key>
+			<string>Colbert 4xfacepalm</string>
+			<key>modificationDate</key>
+			<date>2015-04-10T18:05:37Z</date>
+			<key>plainText</key>
+			<string>https://media.giphy.com/media/epmHd16RDmFtS/giphy.gif</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>08319498-B435-4792-B7F8-004CB9358E23</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>,nopants</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2015-04-10T18:19:04Z</date>
+			<key>label</key>
+			<string>explosm work no pants</string>
+			<key>modificationDate</key>
+			<date>2015-04-10T19:29:59Z</date>
+			<key>plainText</key>
+			<string>http://i.imgur.com/fKjFwoO.gif</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>D39CD834-1D47-48D6-91AD-E1FAFBE1A14B</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>,ninjagoogle</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2015-04-10T18:29:10Z</date>
+			<key>label</key>
+			<string>Googley-eyed ninja</string>
+			<key>modificationDate</key>
+			<date>2015-04-10T18:30:47Z</date>
+			<key>plainText</key>
+			<string>http://i.imgur.com/vA5nOLx.gif</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>C2B2A3A9-123E-42A9-BC7A-066456BD2440</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>,killself</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2015-04-10T19:29:31Z</date>
+			<key>label</key>
+			<string>Finger gun in mouth</string>
+			<key>modificationDate</key>
+			<date>2015-04-10T19:29:50Z</date>
+			<key>plainText</key>
+			<string>http://www.reactiongifs.com/wp-content/uploads/2013/11/killself.gif</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>62E0BC08-B831-45D2-B741-58F4F2D150C7</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>,roulette</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2015-04-10T19:30:33Z</date>
+			<key>label</key>
+			<string>finger gun roulette</string>
+			<key>modificationDate</key>
+			<date>2015-04-10T19:30:52Z</date>
+			<key>plainText</key>
+			<string>http://media.giphy.com/media/fokaptLvSWs6I/giphy.gif</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>D0917B35-07F2-4CA3-8CA4-16F8D728ECA7</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>,yearisit</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2015-04-10T19:36:57Z</date>
+			<key>label</key>
+			<string>What year is it?</string>
+			<key>modificationDate</key>
+			<date>2015-04-10T19:37:13Z</date>
+			<key>plainText</key>
+			<string>https://i.imgur.com/4Jrt87M.gif</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>19A00268-0CAC-4DAA-B82D-657F9FD1E79A</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>,wownothing</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2015-04-10T19:39:13Z</date>
+			<key>label</key>
+			<string>Wow its nothing</string>
+			<key>modificationDate</key>
+			<date>2015-04-10T19:39:33Z</date>
+			<key>plainText</key>
+			<string>http://i.imgur.com/02lburS.gif</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>C1F87A0E-CACD-4C9A-B767-5023A762A542</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>,dirtfail</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2015-04-10T19:40:54Z</date>
+			<key>label</key>
+			<string>dirt bike jump fail</string>
+			<key>modificationDate</key>
+			<date>2015-04-10T19:41:17Z</date>
+			<key>plainText</key>
+			<string>http://i.imgur.com/zSQ0Gik.gif</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>0FDCFC70-FB93-4E1C-B089-924F87BF72E5</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>,shitrunoff</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2015-04-10T19:47:05Z</date>
+			<key>label</key>
+			<string>"shit" *runs off*</string>
+			<key>modificationDate</key>
+			<date>2015-04-10T19:47:18Z</date>
+			<key>plainText</key>
+			<string>http://i.imgur.com/pxa3C5D.gif</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>24C57357-6E94-43FF-AC50-3D71D31F2DB1</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>,recursionelf</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2015-04-15T19:46:03Z</date>
+			<key>label</key>
+			<string>recursion elfs</string>
+			<key>modificationDate</key>
+			<date>2015-04-15T19:46:17Z</date>
+			<key>plainText</key>
+			<string>http://static.fjcdn.com/pictures/Recursion+pushing+top+250+on+content+this+content+will+hopefully_0c60a1_5327406.jpg</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>BF23BEB2-5B5B-4A6A-974D-50C467B38E9F</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>.recursionyodawg</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2015-04-15T19:48:25Z</date>
+			<key>label</key>
+			<string>Yo Dawg recursion</string>
+			<key>modificationDate</key>
+			<date>2015-04-15T19:48:44Z</date>
+			<key>plainText</key>
+			<string>http://s2.quickmeme.com/img/a7/a764b1ed93f5fae80373f990de499c79ef0e2b0b3f950cb6b42ed9294de3b947.jpg</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>06067249-406B-4698-8B7A-D7E02ED550EF</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>,recursionwil</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2015-04-15T19:49:51Z</date>
+			<key>label</key>
+			<string>Wil Weaton recursion</string>
+			<key>modificationDate</key>
+			<date>2015-04-16T16:32:12Z</date>
+			<key>plainText</key>
+			<string>http://www.cotygonzales.com/wp-content/uploads/2011/08/wil-wheaton-shirt.jpeg</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>01D94975-B21F-460B-8E51-51A45C5E3748</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>,goodjokeeel</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2015-04-16T16:32:16Z</date>
+			<key>label</key>
+			<string>Good joke eel fry</string>
+			<key>modificationDate</key>
+			<date>2015-04-16T16:32:35Z</date>
+			<key>plainText</key>
+			<string>http://cdn.memepix.com/images/large/dfjOc.jpg</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>0D11DE07-6FA0-4BDE-8B05-A0799CFA20AC</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>,holdontobutt</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2015-04-22T18:06:51Z</date>
+			<key>label</key>
+			<string>youtube hold onto your butts</string>
+			<key>modificationDate</key>
+			<date>2015-04-22T18:07:11Z</date>
+			<key>plainText</key>
+			<string>https://www.youtube.com/watch?v=-W6as8oVcuM</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>CB3A94A6-B901-42C1-B014-D4FB29D001BB</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>,ralphdrugs</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2015-04-30T21:04:37Z</date>
+			<key>label</key>
+			<string>Ralph wiggum drugs</string>
+			<key>modificationDate</key>
+			<date>2015-04-30T21:04:56Z</date>
+			<key>plainText</key>
+			<string>https://media1.giphy.com/media/D2PVFzyyDFn32/200.gif</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>C6EFDBE5-D2FA-479F-AC4E-87EE71B69438</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>,bong</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2015-04-30T21:05:04Z</date>
+			<key>label</key>
+			<string>Rainbow dash bong</string>
+			<key>modificationDate</key>
+			<date>2015-04-30T21:05:19Z</date>
+			<key>plainText</key>
+			<string>https://media2.giphy.com/media/13IovId9EttuAE/200.gif</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>E5EE24DA-4CEF-49FE-B1B5-F42084FBC3CF</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>,dumbestway</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2015-04-30T21:30:17Z</date>
+			<key>label</key>
+			<string>card do it the dumbest way possible</string>
+			<key>modificationDate</key>
+			<date>2015-04-30T21:30:35Z</date>
+			<key>plainText</key>
+			<string>http://bakadesuyo.bakadesuyo.netdna-cdn.com/wp-content/uploads/2013/06/effective-work.jpg</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>ED2BC80A-C3D1-4D07-A599-58F78D8CCED5</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>,ohhellno</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2015-05-01T20:01:41Z</date>
+			<key>label</key>
+			<string>Cats Oh hell no</string>
+			<key>modificationDate</key>
+			<date>2015-05-01T20:02:02Z</date>
+			<key>plainText</key>
+			<string>http://33.media.tumblr.com/9ec0aeed0ef6f914d0daa05beb641648/tumblr_inline_nn9wf1CgGj1t9bsnt_500.gif</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>9BB77B2C-C289-435D-B8BD-26176BB13E7F</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>,summarize</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2015-05-01T20:02:54Z</date>
+			<key>label</key>
+			<string>Not reading that, summarize</string>
+			<key>modificationDate</key>
+			<date>2015-05-01T20:03:06Z</date>
+			<key>plainText</key>
+			<string>http://31.media.tumblr.com/99b29b61520d6ed7c7d251319fbd8dc9/tumblr_inline_nltr661QMC1t9bsnt.gif</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>701C5EC3-7BB5-4EF7-BF11-858C13EE631F</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>,dumbestfuckingway</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2015-06-01T14:56:42Z</date>
+			<key>label</key>
+			<string>Dumbest fucking way possible</string>
+			<key>modificationDate</key>
+			<date>2015-06-01T14:57:52Z</date>
+			<key>plainText</key>
+			<string>http://cdn.someecards.com/someecards/usercards/MjAxMi04YjI3YmFiN2I2MzM2OWI2.png</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>FAD9E2E8-E93A-46F1-B310-3469E29EBCB0</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>,compiling</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2015-06-04T19:08:49Z</date>
+			<key>label</key>
+			<string>xkcd compiling</string>
+			<key>modificationDate</key>
+			<date>2015-06-04T19:09:02Z</date>
+			<key>plainText</key>
+			<string>http://imgs.xkcd.com/comics/compiling.png</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>12B53085-7C17-4D8F-BBAE-D524C481A1B7</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>,bullshitwbw</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2015-06-04T21:57:24Z</date>
+			<key>label</key>
+			<string>waitbutwhy bullshit</string>
+			<key>modificationDate</key>
+			<date>2015-06-04T21:58:08Z</date>
+			<key>plainText</key>
+			<string>http://28oa9i1t08037ue3m1l0i861.wpengine.netdna-cdn.com/wp-content/uploads/2015/06/BS2.jpg</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>7E879A61-DDA8-452D-BBAA-66AA4A60442F</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>,bugfix</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2015-06-18T18:05:33Z</date>
+			<key>label</key>
+			<string>Fixing bugs Malcom in the middle</string>
+			<key>modificationDate</key>
+			<date>2015-06-18T18:05:51Z</date>
+			<key>plainText</key>
+			<string>http://i.imgur.com/t0XHtgJ.gif</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>31206660-4ECE-4292-92ED-3F9665CF6D9D</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>,themoreyouknow</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2015-08-28T12:38:28Z</date>
+			<key>label</key>
+			<string>The More you Know (reading rainbow)</string>
+			<key>modificationDate</key>
+			<date>2015-08-28T12:38:48Z</date>
+			<key>plainText</key>
+			<string>http://media.giphy.com/media/R6bDgXEXCLcIw/giphy.gif</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>32349DE4-04F7-4E5C-8524-0BAD299E35D3</string>
 		</dict>
 	</array>
 </dict>
